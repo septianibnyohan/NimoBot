@@ -1,0 +1,9 @@
+{
+    "login" : {
+        "phone_number_login": "857xxxxxx",
+        "password_login" : "<nimo_password>"
+    },
+    "nimo_link" : "<view link>",
+    "comment" : "<comment to video>",
+    "wait_second" : 6
+}

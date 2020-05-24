@@ -1,0 +1,10 @@
+{
+    "login" : {
+        "phone_number_login": "85778151604",
+        "password_login" : "Nimoonline01"
+    },
+    "nimo_link" : "https://www.nimo.tv/emperor",
+    "comment" : "Hai semuanya",
+    "wait_second" : 6,
+    "csv_delimiter" : ","
+}
